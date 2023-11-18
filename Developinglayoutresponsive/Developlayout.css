@@ -1,0 +1,131 @@
+#navitem1{
+    color: #323f4b;
+    font-family: 'Times New Roman';
+    
+}
+#navitem2{
+    color: #323f4b;
+    font-family: 'Times New Roman';
+    
+}
+#navitem3{
+    color: #323f4b;
+    font-family: 'Times New Roman';
+    
+}
+#navitem4{
+    color: #323f4b;
+    font-family: 'Times New Roman';
+    
+}
+.image_heading{
+    height: 70px;
+    width: 80px
+}
+.banner_section_bg_container{
+    background-image: url("https://lagatar24.com/wp-content/uploads/2021/12/indian-food-curry-butter-chicken-palak-paneer-chiken-tikka-biryani-vegetable-curry-papad-dal-palak-sabji-jira-alu-rice-138549925.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.banner_heading{
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 45px;
+    font-weight: 300;
+}
+.banner_caption{
+    color: #f5f7fa;
+    font-family: 'Times New Roman';
+    font-size: 24px;
+    font-weight: 300;
+}
+.banner_button{
+    width:130px;
+    height:45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.custom_outline_button{
+    width:130px;
+    height:45px;
+    color: #d0b200;
+    background-color: transparent;
+    border-width: 1px;
+    border-radius: 8px;
+    border-color: #d0b200 ;
+    font-weight: bold;
+    
+}
+.wcu_section{
+    background-color: #f5f7fa;
+}
+.wcu_heading{
+    font-family: 'Times New Roman';
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.wcu_section_description{
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    color:#5a7184;
+}
+.wcu_card{
+    background-color: white;
+    text-align: center;
+    border-radius: 16px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+}
+.wcu_place_image{
+    height: 100px;
+    width:100px;
+}
+.wcu_section_title{
+    font-family: 'Times New Roman';
+    font-size: 22px;
+    font-weight: 500;
+    color: #323f4b;
+}
+.wcu_section_card-description{
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    color: 7b8794;
+}
+.offers{
+    font-style: italic;
+    font-weight: bold;
+}
+.explore_menu{
+    background-color: white;
+}
+.menu_section_heading{
+    font-family: 'Times New Roman';
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.menu_image{
+    border-radius: 16px;
+    width: 290px;
+    height: 304px;
+}
+.menu_card_title{
+    color: #323f4b;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 18px;
+}
+.menu-item-link {
+ color: #d0b200;
+ font-family: 'Times New Roman';
+ font-weight: 600;
+ font-size: 14px;
+}
+.menu_item_card{
+border-radius: 16px;
+}
